@@ -1,0 +1,4 @@
+mooncoin
+========
+
+altcoin
